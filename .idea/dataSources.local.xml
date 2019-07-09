@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="souscritootest@souscritootest.cuarmbocgsq7.eu-central-1.rds.amazonaws.com" uuid="aaa75787-fb18-425a-9833-cb36a0087f9f">
+      <database-info product="PostgreSQL" version="9.5.15" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.2.5">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>testread</user-name>
+      <introspection-schemas>souscritootest:public</introspection-schemas>
+    </data-source>
+  </component>
+</project>
