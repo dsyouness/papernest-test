@@ -8,13 +8,14 @@ Python 3
 
 ## Build
 
-Create a project directory
-Change into the project directory
-Run python3 -m venv <name_of_virtualenv>
-pip install -r requirements.txt
+- Create a project directory
+- Change into the project directory
+- Run python3 -m venv <name_of_virtualenv>
+- pip install -r requirements.txt
 
 ## Config.ini
 
+```
 [postgresql]
 host=
 user=
@@ -25,6 +26,7 @@ port=
 sender=
 password=
 receiver=
+```
 
 ## Run
 
